@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../Python_Nhom"
+		},
+		{
+			"path": "../../../../.."
+		},
+		{
+			"path": "../../../../../../ToolSelenium"
+		},
+		{
+			"path": "D:/ReactJS/TMDT"
+		},
+		{
+			"path": "D:/ReactJS/ChatRealtime"
+		}
+	],
+	"settings": {
+		"solidity.compileUsingRemoteVersion": "v0.8.18+commit.87f61d96",
+		"liveServer.settings.multiRootWorkspaceName": "Python_CDNNLT_223"
+	}
+}
